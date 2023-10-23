@@ -29,7 +29,7 @@ The students would either press one of the three buttons.
 - 3 buttons (Green, Yellow, Red)
 - ESP8266 with Wifi
 
-## Program
-
 ## File Structure
+
+
 
