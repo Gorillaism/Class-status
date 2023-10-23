@@ -18,7 +18,7 @@ Based on [native-blink](https://github.com/aspcodenet/native-blink/) and [avrwif
 The project is simulated on [Wokwi](https://wokwi.com/projects/378185869128599553).
 
  ### Example:
-LCD: How was class today?
+Screen: How was class today?
 ```
 Button1 = Good   Button2 = Okay   Button3 = Bad
 ```
