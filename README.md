@@ -9,12 +9,16 @@ by: Joakim Englund, Daniel Örhill, Mohib Ali Akbari
 - File structure
 
 ## Discription
-The project purpose is to survey a classroom with a LCD screen and buttons. <br />
-The question would show up on a screen and the students could then answer by clicking on the button corresponding to their answer. <br />
-The answers would then be sent to the cloud for evaluation. <br />
+Basic survey tool built with an ATmega328P MCU, three buttons (green, yellow, and red), a screen and a secondary chip for wifi.\
+The screen displays a question that can be answerred by pressing any of the buttons.\
+The data then gets uploaded to thingspeak where it can be analysed.
+
+Based on [native-blink](https://github.com/aspcodenet/native-blink/) and [avrwifi (testing branch)](https://github.com/aspcodenet/avrwifi/tree/testing).
+
+The project is simulated on [Wokwi](https://wokwi.com/projects/378185869128599553).
 
  ### Example:
-LCD: How was class today? <br />
+LCD: How was class today?
 ```
 Button1 = Good   Button2 = Okay   Button3 = Bad
 ```
