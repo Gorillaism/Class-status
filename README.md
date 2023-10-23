@@ -14,7 +14,7 @@ The question would show up on a screen and the students could then answer by cli
 The answers would then be sent to the cloud for evaluation. <br />
 
  ### Example:
-LCD: How was class to day? <br />
+LCD: How was class today? <br />
 ```
 Button1 = Good   Button2 = Okay   Button3 = Bad
 ```
