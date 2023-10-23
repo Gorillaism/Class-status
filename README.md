@@ -16,7 +16,8 @@ The answers would then be sent for evaluation. <br />
 Example:
 
 LCD: How was class to day? <br />
-The students would either press one of the three buttons, Good, Okay or Bad.
+Button1 = Good, Button2 = Okay, Button3 = Bad. <br />
+The students would either press one of the three buttons.
 
 ## Requirements
 
