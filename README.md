@@ -20,7 +20,14 @@ The students would either press one of the three buttons.
 
 ## Requirements
 
-## Hardware
+### Code
+- C code prefered but Cpp is fine
+- No GPL-licensed code
+
+### Hardware
+- OLED/LCD Screen
+- 3 buttons (Green, Yellow, Red)
+- ESP8266 with Wifi
 
 ## Program
 
