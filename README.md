@@ -21,7 +21,7 @@ Button1 = Good   Button2 = Okay   Button3 = Bad
 The students would either press one of the three buttons.
 
 ## Requirements
-
+The requirements given to us when we got the assignment.
 ### Code
 - C code prefered but Cpp is fine
 - No GPL-licensed code
