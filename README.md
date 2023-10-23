@@ -14,6 +14,7 @@ The question would show up on the screen and the students could then answer by c
 The answers would then be sent for evaluation. <br />
 
 Example:
+
 LCD: How was class to day? <br />
 The students would either press one of the three buttons, Good, Okay or Bad.
 
